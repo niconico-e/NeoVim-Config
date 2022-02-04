@@ -16,7 +16,9 @@ Usage
 in your .config folder make a folder names nvim
 
 -git clone https://github.com/niconico-e/NeoVim-Config/
+
 -nvim init.vim
+
 -run PlugInstall in init.vim
 
 and thats it!
