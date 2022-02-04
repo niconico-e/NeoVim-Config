@@ -13,7 +13,7 @@ Dependicies needed
 
 Usage
 
-in your .config folder make a filder names nvim
+in your .config folder make a folder names nvim
 
 -git clone https://github.com/niconico-e/NeoVim-Config/
 -nvim init.vim
