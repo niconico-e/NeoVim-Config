@@ -5,11 +5,11 @@ My neovim configuration
 
 Dependicies needed
 
--Coc
--yay
--jedi(for python autocompletion)
--git
--vim-plug
+Coc 
+yay
+jedi(for python autocompletion)
+git
+vim-plug
 
 Usage
 
